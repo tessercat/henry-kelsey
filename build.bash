@@ -22,10 +22,19 @@ pandoc \
     --output "${OUTPUT}" \
     --toc \
     --css style.css \
-    --epub-chapter-level=2 \
   meta.yaml \
   foreward.md \
   001.md \
   002.md \
-  003.md
+  003.md \
+  015.md \
+  016.md \
+  017.md \
+  018.md \
+  019.md \
+  124.md \
+  125.md \
+  126.md \
+  127.md \
+  128.md
 echo Built "${OUTPUT}"
