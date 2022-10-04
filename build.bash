@@ -43,9 +43,9 @@ pandoc \
   017.md \
   018.md \
   019.md \
-  124.md \
   125.md \
   126.md \
   127.md \
-  128.md
+  128.md \
+  README.md
 echo Built "${OUTPUT}"
