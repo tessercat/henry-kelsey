@@ -21,6 +21,7 @@ OUTPUT="TheKelseyPapers-${COMMIT}.epub"
 pandoc \
     --output "${OUTPUT}" \
     --toc \
+    --toc-depth 2 \
     --css style.css \
   meta.yaml \
   foreward.md \

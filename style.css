@@ -11,6 +11,7 @@ h1.main { font-size: x-large; }
 h1.subtitle { font-size: large; }
 h1.extended { font-size: medium; font-style: italic; font-weight: normal; }
 h2 { font-size: medium; }
+h3 { font-size: small; }
 div.version { font-style: italic; }
 nav#toc ol,
 nav#landmarks ol { padding: 0; margin-left: 1em; }
