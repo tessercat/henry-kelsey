@@ -1,5 +1,5 @@
 foreward.md
 *.epub
 *.pdf
-!peel-5.pdf
+!peel-*.pdf
 *.mobi
